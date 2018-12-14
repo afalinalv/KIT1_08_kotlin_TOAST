@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KIT1_08_kotlin_TOAST</string>
+    <string name="show_toast">Пора вставать! Утро!</string>
+</resources>
